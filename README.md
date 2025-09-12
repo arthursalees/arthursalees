@@ -5,8 +5,8 @@
 🚀 Compartilho projetos e estudos de tecnologia por aqui
 
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalees&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalees&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tecnologias que já utilizei
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,5 +21,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
-##
+  ##
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthursalesd61@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.saless)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthursalees)
