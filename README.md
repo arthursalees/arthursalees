@@ -5,8 +5,9 @@
 🚀 Compartilho projetos e estudos de tecnologia por aqui
 
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalees&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=dark)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalees&layout=compact&theme=dark)]
 
 ## 🛠️ Tecnologias que já utilizei
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,7 +32,8 @@
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/arhtursalees/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/arthursalees/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/arthursalees/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
 </picture>
+
