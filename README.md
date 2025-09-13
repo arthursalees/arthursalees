@@ -1,5 +1,6 @@
-<!-- Banner animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Arthur+Sales;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estudando+Java+e+MySQL;Bem-vindo+ao+meu+perfil+!)](https://git.io/typing-svg)
+<!-- Banner animado com frase em loop -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Arthur+Sales!)](https://git.io/typing-svg)
+
 
 ---
 
