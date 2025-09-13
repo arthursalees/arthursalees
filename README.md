@@ -1,8 +1,17 @@
-# 👋 Olá! Meu nome é Arthur Sales
+<!-- Banner animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Arthur+Sales;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estudando+Java+e+MySQL;Bem-vindo+ao+meu+perfil+!)](https://git.io/typing-svg)
+
+---
+
+<div>
 
 🎓 Estudante de **Ciência da Computação** na Universidade São Judas Tadeu (5º semestre)  
 💻 Atualmente estudando **Java** e **MySQL**  
-🚀 Compartilho projetos e estudos de tecnologia por aqui
+🚀 Compartilho projetos e estudos de tecnologia por aqui  
+
+</div>
+
+---
 
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=dark)]
@@ -22,18 +31,19 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-  ##
+## 🐍 Contribuições
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
+</picture>
 
+</div>
+
+## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthursalesd61@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.saless)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthursalees)
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthursalees/arthursalees/output/github-contribution-grid-snake.svg">
-</picture>
-
