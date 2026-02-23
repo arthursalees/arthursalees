@@ -6,7 +6,7 @@
 
 <div>
 
-🎓 Estudante de **Ciência da Computação** na Universidade São Judas Tadeu (5º semestre)  
+🎓 Estudante de **Ciência da Computação** na Universidade São Judas Tadeu (6º semestre)  
 💻 Atualmente estudando **Java** e **MySQL**  
 🚀 Compartilho projetos e estudos de tecnologia por aqui  
 
