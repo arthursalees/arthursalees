@@ -15,11 +15,7 @@
 ---
 
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursalees&show_icons=true&theme=tokyonight
-)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalees&layout=compact&theme=tokyonight
-)]
 
 ## 🛠️ Tecnologias que já utilizei
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
